@@ -1,0 +1,10 @@
+
+State Machine - |DE0_TOP|ps2:ps2_inst|state_next
+Name state_next.stop 
+state_next.load 0 
+state_next.stop 1 
+
+State Machine - |DE0_TOP|ps2:ps2_inst|state_reg
+Name state_reg.load 
+state_reg.stop 0 
+state_reg.load 1 
